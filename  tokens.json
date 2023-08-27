@@ -119,6 +119,32 @@
         "value": ".5rem",
         "type": "borderRadius"
       }
+    },
+    "button": {
+      "primary": {
+        "value": {
+          "paddingLeft": "{spacing.base}",
+          "paddingRight": "{spacing.base}",
+          "paddingTop": "{spacing.tight}",
+          "paddingBottom": "{spacing.tight}",
+          "borderRadius": "{borderRadius.base}",
+          "fill": "{color.blue.500}",
+          "typography": "{typography.body}"
+        },
+        "type": "composition"
+      },
+      "secondary": {
+        "value": {
+          "paddingLeft": "{spacing.base}",
+          "paddingRight": "{spacing.base}",
+          "paddingTop": "{spacing.tight}",
+          "paddingBottom": "{spacing.tight}",
+          "borderRadius": "{borderRadius.base}",
+          "fill": "{color.red.500}",
+          "typography": "{typography.body}"
+        },
+        "type": "composition"
+      }
     }
   },
   "$themes": [],
