@@ -102,32 +102,12 @@
     },
     "spacing": {
       "base": {
-        "left": {
-          "value": "1rem",
-          "type": "spacing"
-        },
-        "right": {
-          "value": "1rem",
-          "type": "spacing"
-        },
-        "horizontal": {
-          "value": "1rem",
-          "type": "spacing"
-        }
+        "value": "1rem",
+        "type": "spacing"
       },
       "tight": {
-        "left": {
-          "value": ".5rem",
-          "type": "spacing"
-        },
-        "right": {
-          "value": ".5rem",
-          "type": "spacing"
-        },
-        "horizontal": {
-          "value": ".5rem",
-          "type": "spacing"
-        }
+        "value": ".5rem",
+        "type": "spacing"
       }
     },
     "borderRadius": {
